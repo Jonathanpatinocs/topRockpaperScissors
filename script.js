@@ -27,6 +27,7 @@ function playRound(playerChoice, computerChoice) {
             else {
                 computerScore++;
                 return "You Lose";
+                
             }
         }
         case "scissors": {
