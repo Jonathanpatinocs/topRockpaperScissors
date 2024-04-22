@@ -1,0 +1,30 @@
+body  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 {
+    margin-bottom: 0;
+}
+#play-button {
+    margin-top: 15%;
+    width: 250px;
+    height: 50px;
+}
+#game-buttons {
+    margin-top: 100px;
+    display: flex;
+    gap:50px;
+}
+img {
+    width: 150px;
+    height: 150px;
+    opacity: 0;
+}
+.img {
+    opacity: 100;
+}
+#game-bottom {
+ margin-top:100px;
+ text-align: center;
+}
